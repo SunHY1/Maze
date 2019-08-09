@@ -1,2 +1,2 @@
 # Maze
-A maze game
+第一次用github上传我的迷宫游戏
